@@ -1,4 +1,4 @@
-# holbertonschool-web_dart
+# 0x00. Dart - Hello Dart
 
 > This directory contains all the tasks of the project "0x00. Dart - Hello Dart" at [Holberton School](https://www.holbertonschool.com 'Holberton School.') for educational purpose.
 
@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [holbertonschool-web_dart](#holbertonschool-web_dart)
+- [0x00. Dart - Hello Dart](#0x00-dart---hello-dart)
   - [Table of Contents](#table-of-contents)
   - [Author](#author)
   - [License](#license)
